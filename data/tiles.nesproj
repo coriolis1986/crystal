@@ -1,0 +1,8 @@
+{
+  "filename": "tiles.nesproj",
+  "filepath": "/Users/megabyte/Documents/nes/crystal/data/tiles.nesproj",
+  "bank": 0,
+  "nametable": "/Users/megabyte/Documents/nes/crystal/tiles.nam",
+  "tileset": "/Users/megabyte/Documents/nes/crystal/tiles.chr",
+  "palettes": "/Users/megabyte/Documents/nes/crystal/tiles.pal"
+}
